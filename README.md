@@ -1,3 +1,5 @@
+![logo](https://github.com/SayanBarcha/SayanBarcha/blob/main/Blue%20and%20White%20Neon%20Programmer%20Personal%20Branding%20Youtube%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Muhammad Rahim</h1>
 <h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
 <img src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" alt="coding" width="400"/>
